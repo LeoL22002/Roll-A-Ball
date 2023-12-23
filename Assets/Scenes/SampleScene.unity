@@ -2418,9 +2418,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidad: 10
+  time: 60
   textoContador: {fileID: 987770388}
   textoGanar: {fileID: 1359736648}
   textoTimer: {fileID: 1870915707}
+  jumpForce: 0
+  t_monedas: 12
 --- !u!82 &2043189299
 AudioSource:
   m_ObjectHideFlags: 0
